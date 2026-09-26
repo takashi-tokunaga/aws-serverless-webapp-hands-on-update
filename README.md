@@ -461,10 +461,10 @@ False → True
 ```
 
 > [!NOTE]
-> Lambdaプロキシ統合を利用すると、API GatewayからLambdaへリクエストを渡し、
+> Lambdaプロキシ統合を利用すると、API GatewayからLambdaへリクエストを渡し、  
 > Lambdaから返されたレスポンスをHTTPレスポンスとして扱う構成になります。
 >
-> また、Lambdaプロキシ統合を利用する場合、
+> また、Lambdaプロキシ統合を利用する場合、  
 > CORSに必要なレスポンスヘッダーをバックエンド側で返す必要があります。
 
 ![Lambdaプロキシ統合設定_1](./images/10_lambda_proxy_1.png)
